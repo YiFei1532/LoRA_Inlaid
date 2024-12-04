@@ -1,3 +1,5 @@
+The source code will be available in a few weeks, and we greatly appreciate your patience and understanding.
+
 # LoRA-Inlaid
 
 This is the anonymous repository for submitting paper **Efficient Multi-task LLM Quantization and Serving for Multiple LoRA Adapters**.
